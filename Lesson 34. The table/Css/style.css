@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin-bottom: 20px;
+	font-family: sans-serif;
+	max-width: 300px;
+	max-height: 300px;
+	margin: 0;
+}
+
+td,
+th,
+caption {
+	border: 1px solid #000;
+}
+
+caption {
+	border-bottom: none;
+	font-size: 20px;
+}
+.CB,
+.BC {
+	color: #ff0000;
+}
