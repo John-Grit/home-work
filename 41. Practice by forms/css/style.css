@@ -1,0 +1,46 @@
+.form {
+	display: inline-block;
+	max-width: 500px;
+	font-family: sans-serif;
+
+	max-height: 400px;
+	max-width: 400px;
+	border-radius: 5px;
+}
+
+.form-group {
+	border-radius: 5px;
+	width: 250px;
+}
+
+.heading {
+	margin: 0 0 10px 0;
+}
+
+label {
+	display: block;
+	margin: 0 0 5px 0;
+}
+
+.field {
+	display: block;
+	width: 210px;
+	margin: 0 0 10px 0;
+}
+
+textarea {
+	min-height: 20px;
+	max-height: 200px;
+	max-width: 210px;
+	width: 210px;
+}
+
+.pravila {
+	margin: 10px 0 10px 0;
+	cursor: pointer;
+}
+
+.button {
+	cursor: pointer;
+	margin: 0 0 5px 0;
+}
